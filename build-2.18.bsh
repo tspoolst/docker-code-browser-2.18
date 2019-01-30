@@ -1,0 +1,1 @@
+docker build -t code-browser:2.18 .
